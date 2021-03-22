@@ -11,6 +11,8 @@
 <!---
 sidharth178/sidharth178 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
+https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=material-palenight
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=sidharth178&theme=radical">
 --->
 
 
@@ -53,7 +55,7 @@ You can click the Preview link to take a look at your changes.
 <br>
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=sidharth178&show_icons=true&theme=radical&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=sidharth178&theme=radical">
+  <img src = "https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=sidharth178&layout=compact&theme=material-palenight">
  
 </p>
 <p align = "center">
