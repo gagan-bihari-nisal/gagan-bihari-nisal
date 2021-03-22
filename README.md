@@ -54,7 +54,7 @@ https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=anur
 </p>
 <br>
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=sidharth178&show_icons=true&theme=radical&line_height=40">
+  <img src = "https://github-readme-stats.vercel.app/api?username=sidharth178&show_icons=true&theme=radical&line_height=33">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=sidharth178&theme=radical">
  
 </p>
