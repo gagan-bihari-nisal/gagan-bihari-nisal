@@ -60,13 +60,13 @@ You can click the Preview link to take a look at your changes.
 <h2 align="center">GitHub Analytics ⚙️ &nbsp;</h2>
 <p align="center">
 <a href="https://github.com/sidharth178">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sidharth178&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sidharth178&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" width = "400em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sidharth178&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" width = "335em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sidharth178&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
 <p align = "center">
-<img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=sidharth178&show_icons=true&locale=en&layout=compact&theme=algolia&line_height=0" />
+<img height="180em" width = "400em" src="https://github-readme-streak-stats.herokuapp.com/?user=sidharth178&show_icons=true&locale=en&layout=compact&theme=algolia&line_height=0" />
 </p> 
 <!---
 <p align = "center">
