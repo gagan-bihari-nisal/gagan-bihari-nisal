@@ -1,8 +1,8 @@
 ### Hi, I’m Gagan! 👋
-- 👀 I’m interested in Data Science & Machine Learning.
-- 🌱 I’m currently solving machine learning problems.
-- 💞️ I’m looking to collaborate on freelancing works for Data Science Projects.
-- 💬 Ask me about Data Science or any tech related stuff.
+- 👀 I’m interested in developing Mobile Applications.
+- 🌱 My primary skills includes JAVA, C, C++, SQL, ANDROID and FLUTTER.
+- 💞️ I am also familiar with HTML, CSS and Python as well.
+<!-- - 💬 Ask me about Data Science or any tech related stuff. -->
 - 📫 How to reach me: [LinkedIn](http://www.linkedin.com/in/gagan-bihari-nisal)
 - 😄 Pronouns: He/His/Him
 - ⚡ Fact: I prefer Tea over Coffee.
@@ -22,16 +22,20 @@
 <img src="https://img.shields.io/badge/-gbn_stryker-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/gbn_stryker/" />
 <img src="https://img.shields.io/badge/-gagannisal@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gagannisal@gmail.com" />
 <img src="https://img.shields.io/badge/-gagan bihari nisal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gagan-bihari-nisal//" />
-<img src="https://img.shields.io/badge/-imSidhMohanty-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/imSidhMohanty" />
+<img src="https://img.shields.io/badge/-GbnStryker-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/GbnStryker" />
 
 </p>
 
 <h2 align="center">Technology Stack <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h2>
 
 <p align="center">
- <img src="https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white" height="20"/>
+  <img src="https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518"/>
+ <img src="https://img.shields.io/badge/-android-05122A?style=flat&logo=Android&logoColor=00FF00"/>
+ <img src="https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=Flutter&logoColor=blue"/>
+ 
  <img src="https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C"/>
- <img src="https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518"/>
+ <img src="https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white" height="20"/>
+
 <!--  <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript"/> -->
  
 <!--  <img src="https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C"/> -->
