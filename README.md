@@ -1,10 +1,9 @@
 ### Hi, I’m Gagan! 👋
-- 👀 I’m interested in developing Mobile Applications.
-- 🌱 My primary skills includes JAVA, C, C++, SQL, ANDROID and FLUTTER.
+- 👀 I’m interested in developing Mobile and Web Applications.
+- 🌱 My primary skills includes JAVA, ReactJS, Angular, Spring Boot, MySQL, Android and Flutter.
 - 💞️ I am also familiar with HTML, CSS and Python as well.
 <!-- - 💬 Ask me about Data Science or any tech related stuff. -->
 - 📫 How to reach me: [LinkedIn](http://www.linkedin.com/in/gagan-bihari-nisal)
-- 😄 Pronouns: He/His/Him
 - ⚡ Fact: I prefer Tea over Coffee.
 
 
